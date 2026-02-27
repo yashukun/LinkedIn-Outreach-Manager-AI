@@ -1,0 +1,9 @@
+# Sample CSV Template for Contact Import
+
+# Save this as contacts_template.csv and use it to bulk upload contacts
+
+first_name,last_name,email,phone_number,company,job_title,linkedin_url,industry,location,status,tags,notes
+John,Doe,john.doe@example.com,+1-555-0100,Acme Corp,Senior Engineer,https://linkedin.com/in/johndoe,Technology,San Francisco,active,"developer,python,ai",Met at tech conference 2024
+Jane,Smith,jane.smith@example.com,+1-555-0101,TechStart Inc,Product Manager,https://linkedin.com/in/janesmith,SaaS,New York,hot_lead,"pm,saas,product",Interested in our product demo
+Mike,Johnson,mike.j@example.com,+1-555-0102,InnovateNow,CTO,https://linkedin.com/in/mikejohnson,AI/ML,Austin,candidate,"leadership,ai,hiring",Potential candidate for CTO role
+Sarah,Williams,sarah.w@example.com,+1-555-0103,DataCorp,Data Scientist,https://linkedin.com/in/sarahwilliams,Data Science,Seattle,active,"data,analytics,ml",Collaboration on ML project

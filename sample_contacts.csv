@@ -1,0 +1,101 @@
+first_name,last_name,email,phone_number,company,job_title,linkedin_url,industry,location,status,tags,notes
+Aarav,Sharma,aarav.sharma@techcorp.in,+91-9876543210,TechCorp India,Senior Software Engineer,https://linkedin.com/in/aaravsharma,Technology,Bangalore,active,"python,backend,ai",Met at PyCon India 2025
+Priya,Patel,priya.patel@infosys.com,+91-9876543211,Infosys,Product Manager,https://linkedin.com/in/priyapatel,IT Services,Pune,hot_lead,"pm,saas,enterprise",Interested in collaboration
+Rohit,Gupta,rohit.gupta@flipkart.com,+91-9876543212,Flipkart,Engineering Manager,https://linkedin.com/in/rohitgupta,E-Commerce,Bangalore,active,"ecommerce,leadership,hiring",Scaling engineering team
+Sneha,Reddy,sneha.reddy@zoho.com,+91-9876543213,Zoho Corporation,UX Designer,https://linkedin.com/in/snehareddy,SaaS,Chennai,candidate,"design,ux,product",Portfolio review pending
+Vikram,Singh,vikram.singh@razorpay.com,+91-9876543214,Razorpay,VP Engineering,https://linkedin.com/in/vikramsingh,Fintech,Bangalore,hot_lead,"fintech,payments,leadership",Decision maker for partnerships
+Ananya,Krishnan,ananya.k@freshworks.com,+91-9876543215,Freshworks,Data Scientist,https://linkedin.com/in/ananyakrishnan,SaaS,Chennai,active,"ml,data,analytics",Published ML research paper
+Arjun,Nair,arjun.nair@swiggy.com,+91-9876543216,Swiggy,Backend Developer,https://linkedin.com/in/arjunnair,Food Tech,Bangalore,active,"golang,microservices,cloud",Open source contributor
+Deepa,Iyer,deepa.iyer@microsoft.com,+91-9876543217,Microsoft India,Cloud Architect,https://linkedin.com/in/deepaiyer,Technology,Hyderabad,partner,"azure,cloud,enterprise",Azure partnership contact
+Karthik,Menon,karthik.menon@google.com,+91-9876543218,Google India,Staff Engineer,https://linkedin.com/in/karthikmenon,Technology,Bangalore,active,"distributed-systems,golang,kubernetes",GDG speaker
+Meera,Joshi,meera.joshi@tcs.com,+91-9876543219,TCS,Digital Transformation Lead,https://linkedin.com/in/meerajoshi,IT Services,Mumbai,active,"digital,consulting,transformation",Large enterprise contact
+Rajesh,Kumar,rajesh.kumar@wipro.com,+91-9876543220,Wipro,Chief Technology Officer,https://linkedin.com/in/rajeshkumar,IT Services,Bangalore,hot_lead,"cto,leadership,strategy",CTO level decision maker
+Kavitha,Sundaram,kavitha.s@ola.com,+91-9876543221,Ola Cabs,Head of AI,https://linkedin.com/in/kavithasundaram,Mobility,Bangalore,active,"ai,ml,autonomous",Leading AI research division
+Siddharth,Agarwal,sid.agarwal@zerodha.com,+91-9876543222,Zerodha,Full Stack Developer,https://linkedin.com/in/sidagarwal,Fintech,Bangalore,active,"react,python,fintech",Active on tech Twitter
+Nandini,Rao,nandini.rao@amazon.in,+91-9876543223,Amazon India,Senior PM,https://linkedin.com/in/nandinirao,E-Commerce,Hyderabad,active,"product,strategy,growth",Prime Video team
+Amit,Deshmukh,amit.d@paytm.com,+91-9876543224,Paytm,Security Engineer,https://linkedin.com/in/amitdeshmukh,Fintech,Noida,candidate,"security,devsecops,fintech",Bug bounty researcher
+Pooja,Bhatt,pooja.bhatt@byju.com,+91-9876543225,BYJU'S,Content Strategist,https://linkedin.com/in/poojabhatt,EdTech,Bangalore,archived,"edtech,content,marketing",Company restructuring
+Manish,Tiwari,manish.t@cred.club,+91-9876543226,CRED,iOS Developer,https://linkedin.com/in/manishtiwari,Fintech,Bangalore,active,"ios,swift,mobile",WWDC attendee
+Shruti,Kapoor,shruti.kapoor@dream11.com,+91-9876543227,Dream11,Data Engineer,https://linkedin.com/in/shrutikapoor,Gaming,Mumbai,active,"spark,kafka,bigdata",Built real-time pipeline
+Nikhil,Verma,nikhil.verma@zomato.com,+91-9876543228,Zomato,DevOps Lead,https://linkedin.com/in/nikhilverma,Food Tech,Gurugram,active,"devops,aws,terraform",KubeCon speaker
+Aishwarya,Mohan,aish.mohan@atlassian.com,+91-9876543229,Atlassian,Engineering Lead,https://linkedin.com/in/aishwaryamohan,Technology,Bangalore,partner,"agile,jira,collaboration",Atlassian partner program
+Varun,Khanna,varun.khanna@uber.com,+91-9876543230,Uber India,ML Engineer,https://linkedin.com/in/varunkhanna,Mobility,Hyderabad,active,"ml,python,recommendation",NeurIPS paper author
+Divya,Narayan,divya.n@phonepe.com,+91-9876543231,PhonePe,Frontend Engineer,https://linkedin.com/in/divyanarayan,Fintech,Bangalore,active,"react,typescript,mobile",React India speaker
+Harsh,Pandey,harsh.pandey@myntra.com,+91-9876543232,Myntra,Product Designer,https://linkedin.com/in/harshpandey,E-Commerce,Bangalore,active,"design,figma,ux",Dribbble featured
+Ritika,Saxena,ritika.s@lenskart.com,+91-9876543233,Lenskart,Growth Marketer,https://linkedin.com/in/ritikasaxena,D2C,Delhi,hot_lead,"growth,marketing,d2c",10x growth case study
+Suresh,Babu,suresh.babu@oracle.com,+91-9876543234,Oracle India,Database Architect,https://linkedin.com/in/sureshbabu,Technology,Hyderabad,active,"oracle,database,sql",25 years experience
+Lakshmi,Venkatesh,lakshmi.v@salesforce.com,+91-9876543235,Salesforce India,Solution Architect,https://linkedin.com/in/lakshmivenkatesh,CRM,Hyderabad,partner,"salesforce,crm,integration",Trailblazer community
+Gaurav,Malhotra,gaurav.m@meesho.com,+91-9876543236,Meesho,Backend Lead,https://linkedin.com/in/gauravmalhotra,Social Commerce,Bangalore,active,"java,spring,microservices",Scaled to 100M users
+Tanvi,Shah,tanvi.shah@cleartax.in,+91-9876543237,ClearTax,Tax Tech Lead,https://linkedin.com/in/tanvishah,Fintech,Bangalore,active,"taxation,fintech,compliance",Domain expert
+Abhishek,Chatterjee,abhishek.c@thoughtworks.com,+91-9876543238,ThoughtWorks,Principal Consultant,https://linkedin.com/in/abhishekchatterjee,Consulting,Pune,active,"agile,consulting,architecture",Published author
+Ritu,Agrawal,ritu.a@accenture.com,+91-9876543239,Accenture India,AI Practice Lead,https://linkedin.com/in/rituagrawal,Consulting,Mumbai,hot_lead,"ai,consulting,enterprise",Leading AI transformation
+Pranav,Desai,pranav.desai@postman.com,+91-9876543240,Postman,Developer Advocate,https://linkedin.com/in/pranavdesai,Developer Tools,Bangalore,active,"api,devrel,community",50K Twitter followers
+Swati,Pillai,swati.pillai@adobe.com,+91-9876543241,Adobe India,Creative Lead,https://linkedin.com/in/swatipillai,Creative Tech,Noida,active,"design,adobe,creative",Adobe MAX speaker
+Kunal,Bhandari,kunal.b@shopify.com,+91-9876543242,Shopify India,Staff Engineer,https://linkedin.com/in/kunalbhandari,E-Commerce,Bangalore,active,"ruby,rails,ecommerce",Open source maintainer
+Anjali,Mishra,anjali.m@deloitte.com,+91-9876543243,Deloitte India,Cyber Security Lead,https://linkedin.com/in/anjalimishra,Consulting,Mumbai,candidate,"cybersecurity,compliance,risk",CISSP certified
+Sanjay,Rajan,sanjay.r@samsung.com,+91-9876543244,Samsung R&D,Research Scientist,https://linkedin.com/in/sanjayrajan,Electronics,Bangalore,active,"research,5g,iot",15 patents filed
+Pallavi,Deshpande,pallavi.d@hotstar.com,+91-9876543245,Disney+ Hotstar,Video Engineer,https://linkedin.com/in/pallavideshpande,Streaming,Mumbai,active,"video,streaming,cdn",Scaled IPL streaming
+Arun,Prasad,arun.prasad@nvidia.com,+91-9876543246,NVIDIA India,GPU Architect,https://linkedin.com/in/arunprasad,Semiconductors,Bangalore,active,"gpu,cuda,ai-hardware",CUDA expert
+Rekha,Subramaniam,rekha.s@ibm.com,+91-9876543247,IBM India,Quantum Computing Lead,https://linkedin.com/in/rekhasubramaniam,Technology,Bangalore,partner,"quantum,research,ibm",IBM Quantum Network
+Vivek,Chandra,vivek.c@dunzo.com,+91-9876543248,Dunzo,CTO,https://linkedin.com/in/vivekchandra,Hyperlocal,Bangalore,hot_lead,"cto,startup,delivery",Series D funded startup
+Megha,Kulkarni,megha.k@browserstack.com,+91-9876543249,BrowserStack,QA Architect,https://linkedin.com/in/meghakulkarni,Developer Tools,Mumbai,active,"testing,automation,selenium",Testing community lead
+Rahul,Saxena,rahul.saxena@coinbase.com,+91-9876543250,Coinbase India,Blockchain Dev,https://linkedin.com/in/rahulsaxena,Crypto,Hyderabad,active,"web3,blockchain,solidity",ETHIndia winner
+Shweta,Pandey,shweta.p@notion.so,+91-9876543251,Notion,Product Designer,https://linkedin.com/in/shwetapandey,Productivity,Bangalore,active,"product-design,notion,saas",Design thinking facilitator
+Manoj,Pillai,manoj.pillai@juspay.in,+91-9876543252,Juspay,Haskell Developer,https://linkedin.com/in/manojpillai,Fintech,Bangalore,active,"haskell,functional,payments",FP community organizer
+Neha,Goyal,neha.goyal@unacademy.com,+91-9876543253,Unacademy,ML Engineer,https://linkedin.com/in/nehagoyal,EdTech,Bangalore,active,"nlp,ml,edtech",Built recommendation engine
+Sameer,Jain,sameer.jain@medibuddy.in,+91-9876543254,MediBuddy,HealthTech Lead,https://linkedin.com/in/sameerjain,HealthTech,Bangalore,active,"health,telemedicine,ai",HIPAA compliance expert
+Aditi,Bhargava,aditi.b@hasura.io,+91-9876543255,Hasura,Developer Relations,https://linkedin.com/in/aditibhargava,Developer Tools,Bangalore,active,"graphql,devrel,opensource",GraphQL Summit speaker
+Pankaj,Mehta,pankaj.m@sharechat.co,+91-9876543256,ShareChat,Android Lead,https://linkedin.com/in/pankajmehta,Social Media,Bangalore,active,"android,kotlin,mobile",100M+ app downloads
+Ishita,Banerjee,ishita.b@mpl.live,+91-9876543257,MPL,Game Developer,https://linkedin.com/in/ishitabanerjee,Gaming,Bangalore,candidate,"unity,gaming,mobile",Game jam winner
+Girish,Raghavan,girish.r@thoughtspot.com,+91-9876543258,ThoughtSpot,Analytics Engineer,https://linkedin.com/in/girishraghavan,Analytics,Hyderabad,active,"analytics,bi,search",Data storyteller
+Smita,Nair,smita.nair@sigmoid.com,+91-9876543259,Sigmoid,Data Engineering Lead,https://linkedin.com/in/smitanair,Data,Bangalore,active,"databricks,spark,datalake",Spark Summit speaker
+Prakash,Iyer,prakash.iyer@druva.com,+91-9876543260,Druva,Cloud Security Lead,https://linkedin.com/in/prakashiyer,Cloud Security,Pune,active,"cloud,backup,security",AWS re:Invent speaker
+Roshni,Acharya,roshni.a@springboard.com,+91-9876543261,Springboard,Career Coach,https://linkedin.com/in/roshniacharya,EdTech,Mumbai,active,"career,coaching,edtech",Helped 500+ transitions
+Tushar,Gokhale,tushar.g@persistsys.com,+91-9876543262,Persistent Systems,Solution Architect,https://linkedin.com/in/tushargokhale,IT Services,Pune,active,"architecture,cloud,enterprise",TOGAF certified
+Bhavna,Reddy,bhavna.r@chargebee.com,+91-9876543263,Chargebee,Revenue Ops Lead,https://linkedin.com/in/bhavnareddy,SaaS,Chennai,hot_lead,"revops,saas,billing",SaaS metrics expert
+Ashwin,Murthy,ashwin.m@freshdesk.com,+91-9876543264,Freshdesk,Support Engineer Lead,https://linkedin.com/in/ashwinmurthy,SaaS,Chennai,active,"customer-success,support,saas",ITIL certified
+Yamini,Srinivasan,yamini.s@hcltech.com,+91-9876543265,HCL Technologies,Digital Lead,https://linkedin.com/in/yaminisrinivasan,IT Services,Noida,active,"digital,transformation,enterprise",Large deals experience
+Dhruv,Thakur,dhruv.t@rivigo.com,+91-9876543266,Rivigo,Logistics Tech Lead,https://linkedin.com/in/dhruvthakur,Logistics,Gurugram,active,"logistics,optimization,ml",Supply chain ML models
+Sonia,Kapoor,sonia.k@licious.in,+91-9876543267,Licious,D2C Growth Lead,https://linkedin.com/in/soniakapoor,D2C,Bangalore,active,"d2c,growth,food",Scaled D2C brand
+Naveen,Hegde,naveen.h@mindtree.com,+91-9876543268,LTIMindtree,Cloud Practice Head,https://linkedin.com/in/naveenhegde,IT Services,Bangalore,partner,"cloud,aws,gcp",Multi-cloud expert
+Jaya,Raghunath,jaya.r@biocon.com,+91-9876543269,Biocon,Bioinformatics Lead,https://linkedin.com/in/jayaraghunath,Biotech,Bangalore,active,"biotech,bioinformatics,genomics",Published researcher
+Tarun,Sethi,tarun.s@delhivery.com,+91-9876543270,Delhivery,ML Engineer,https://linkedin.com/in/tarunsethi,Logistics,Gurugram,active,"ml,routing,optimization",Route optimization expert
+Preeti,Verma,preeti.v@upgrad.com,+91-9876543271,upGrad,Learning Designer,https://linkedin.com/in/preetiverma,EdTech,Mumbai,active,"edtech,instructional-design,learning",Online education pioneer
+Sachin,Patil,sachin.p@mphasis.com,+91-9876543272,Mphasis,Blockchain Lead,https://linkedin.com/in/sachinpatil,IT Services,Bangalore,active,"blockchain,enterprise,hyperledger",Enterprise blockchain
+Namrata,Bose,namrata.b@vedantu.com,+91-9876543273,Vedantu,EdTech Engineer,https://linkedin.com/in/namratabose,EdTech,Bangalore,candidate,"webrtc,video,edtech",Real-time video expert
+Ramesh,Shetty,ramesh.s@capgemini.com,+91-9876543274,Capgemini India,AI Practice Head,https://linkedin.com/in/rameshshetty,Consulting,Mumbai,hot_lead,"ai,consulting,digital",AI transformation leader
+Usha,Krishnamurthy,usha.k@julie.ai,+91-9876543275,Julie.ai,NLP Researcher,https://linkedin.com/in/ushakrishnamurthy,AI,Bangalore,active,"nlp,transformers,research",ACL paper published
+Vishal,Garg,vishal.g@physics-wallah.com,+91-9876543276,PhysicsWallah,Tech Lead,https://linkedin.com/in/vishalgarg,EdTech,Noida,active,"edtech,scalability,video",Unicorn startup tech
+Harini,Das,harini.d@practo.com,+91-9876543277,Practo,HealthTech PM,https://linkedin.com/in/harinidas,HealthTech,Bangalore,active,"health,product,telemedicine",Telemedicine expert
+Aditya,Kulkarni,aditya.k@smallcase.com,+91-9876543278,Smallcase,Fintech Engineer,https://linkedin.com/in/adityakulkarni,Fintech,Bangalore,active,"investing,fintech,react",Retail investing platform
+Sunita,Sharma,sunita.s@nykaa.com,+91-9876543279,Nykaa,E-Commerce Tech Lead,https://linkedin.com/in/sunitasharma,D2C,Mumbai,active,"ecommerce,d2c,beauty",Beauty tech innovator
+Akash,Tripathi,akash.t@slice.vip,+91-9876543280,Slice,Mobile Engineer,https://linkedin.com/in/akashtripathi,Fintech,Bangalore,active,"flutter,mobile,fintech",Flutter community lead
+Radha,Menon,radha.m@open.money,+91-9876543281,Open Financial,Banking Tech Lead,https://linkedin.com/in/radhamenon,Fintech,Bangalore,active,"neobank,api,banking",Open banking advocate
+Santosh,Hegde,santosh.h@target.com,+91-9876543282,Target India,Staff Engineer,https://linkedin.com/in/santoshhegde,Retail,Bangalore,active,"java,retail,microservices",Black Friday scaling expert
+Kirti,Patel,kirti.p@shaadi.com,+91-9876543283,Shaadi.com,ML Lead,https://linkedin.com/in/kirtipatel,Matchmaking,Mumbai,active,"ml,recommendation,matching",RecSys conference speaker
+Mohit,Dhawan,mohit.d@groww.in,+91-9876543284,Groww,Platform Engineer,https://linkedin.com/in/mohitdhawan,Fintech,Bangalore,hot_lead,"platform,infra,fintech",Series E startup
+Aparna,Nambiar,aparna.n@freshbooks.com,+91-9876543285,FreshBooks,Accounting Tech Lead,https://linkedin.com/in/aparnanambiar,SaaS,Chennai,active,"accounting,saas,fintech",SMB fintech expert
+Gautam,Roy,gautam.r@innovaccer.com,+91-9876543286,Innovaccer,HealthTech Architect,https://linkedin.com/in/gautamroy,HealthTech,Noida,active,"healthcare,data,interoperability",FHIR standards expert
+Padma,Viswanathan,padma.v@latentview.com,+91-9876543287,LatentView Analytics,Analytics Director,https://linkedin.com/in/padmaviswanathan,Analytics,Chennai,partner,"analytics,consulting,ai",Fortune 500 clients
+Rohini,Kamath,rohini.k@moengage.com,+91-9876543288,MoEngage,MarTech Engineer,https://linkedin.com/in/rohinikamath,MarTech,Bangalore,active,"martech,engagement,mobile",Customer engagement expert
+Jayesh,Bhat,jayesh.b@hasgeek.com,+91-9876543289,HasGeek,Community Manager,https://linkedin.com/in/jayeshbhat,Community,Bangalore,active,"community,events,tech",Organizes tech conferences
+Vidya,Lakshmi,vidya.l@tekion.com,+91-9876543290,Tekion,Full Stack Dev,https://linkedin.com/in/vidyalakshmi,Automotive Tech,Chennai,active,"react,node,automotive",Auto industry disruptor
+Soham,Mukherjee,soham.m@instamojo.com,+91-9876543291,Instamojo,Payments Engineer,https://linkedin.com/in/sohammukherjee,Fintech,Bangalore,active,"payments,upi,fintech",UPI integration expert
+Nisha,Gupta,nisha.g@cure.fit,+91-9876543292,CureFit,Fitness Tech Lead,https://linkedin.com/in/nishagupta,Health & Fitness,Bangalore,active,"fitness,wearables,iot",IoT fitness solutions
+Amol,Kadam,amol.k@zensar.com,+91-9876543293,Zensar Technologies,DevOps Head,https://linkedin.com/in/amolkadam,IT Services,Pune,active,"devops,sre,platform",Platform engineering lead
+Chitra,Raman,chitra.r@freshchat.com,+91-9876543294,Freshchat,Conversational AI Lead,https://linkedin.com/in/chitraraman,SaaS,Chennai,active,"chatbot,nlp,conversational-ai",Built AI chatbot platform
+Deepak,Srinivas,deepak.s@ather.energy,+91-9876543295,Ather Energy,Embedded Engineer,https://linkedin.com/in/deepaksrinivas,EV,Bangalore,active,"embedded,iot,ev",Electric vehicle pioneer
+Ranjith,Kumar,ranjith.k@zoho.com,+91-9876543296,Zoho Corporation,Platform Architect,https://linkedin.com/in/ranjithkumar,SaaS,Chennai,active,"platform,saas,architecture",Built Zoho Creator
+Geeta,Sharma,geeta.s@gojek.io,+91-9876543297,Gojek India,Data Platform Lead,https://linkedin.com/in/geetasharma,Super App,Bangalore,active,"data,kafka,streaming",Real-time data platform
+Vinay,Rao,vinay.r@commvault.com,+91-9876543298,Commvault,Storage Architect,https://linkedin.com/in/vinayrao,Data Protection,Hyderabad,active,"storage,backup,cloud",Data protection expert
+Prathima,Hegde,prathima.h@happyfox.com,+91-9876543299,HappyFox,Support Tech Lead,https://linkedin.com/in/prathimahegde,SaaS,Chennai,active,"helpdesk,saas,customer-support",Customer experience guru
+Hemant,Joshi,hemant.j@eruditus.com,+91-9876543300,Eruditus,EdTech Platform Lead,https://linkedin.com/in/hemantjoshi,EdTech,Mumbai,hot_lead,"edtech,platform,unicorn",Unicorn EdTech company
+Swapnil,Kulkarni,swapnil.k@blue-yonder.com,+91-9876543301,Blue Yonder,Supply Chain ML Lead,https://linkedin.com/in/swapnilkulkarni,Supply Chain,Bangalore,active,"supply-chain,ml,optimization",Demand forecasting expert
+Radhika,Menon,radhika.m@agoda.com,+91-9876543302,Agoda India,Travel Tech Lead,https://linkedin.com/in/radhikamenon,Travel,Gurugram,active,"travel,pricing,ml",Dynamic pricing algorithms
+Ajay,Prabhu,ajay.p@yulu.bike,+91-9876543303,Yulu,Mobility Engineer,https://linkedin.com/in/ajayprabhu,Mobility,Bangalore,active,"mobility,iot,micro-mobility",Micro-mobility innovator
+Seema,Batra,seema.b@mfine.co,+91-9876543304,MFine,Telemedicine Tech Lead,https://linkedin.com/in/seemabatra,HealthTech,Bangalore,active,"telemedicine,ai,healthcare",AI diagnosis models
+Nitin,Agarwal,nitin.a@cars24.com,+91-9876543305,CARS24,Auto Tech Lead,https://linkedin.com/in/nitinagarwal,Automotive,Gurugram,active,"automotive,ml,pricing",Car valuation ML models
+Archana,Reddy,archana.r@khatabook.com,+91-9876543306,Khatabook,SMB Tech Lead,https://linkedin.com/in/archanareddy,Fintech,Bangalore,active,"smb,fintech,mobile",60M+ users served
+Puneet,Manchanda,puneet.m@udaan.com,+91-9876543307,Udaan,B2B Commerce Lead,https://linkedin.com/in/puneetmanchanda,B2B,Bangalore,active,"b2b,ecommerce,supply-chain",B2B marketplace pioneer
+Revathi,Sundaram,revathi.s@jupitermoney.com,+91-9876543308,Jupiter,Neobanking Lead,https://linkedin.com/in/revathisundaram,Fintech,Bangalore,active,"neobank,savings,fintech",Digital banking innovator
+Ganesh,Natarajan,ganesh.n@sap.com,+91-9876543309,SAP Labs India,Enterprise Architect,https://linkedin.com/in/ganeshnatarajan,Enterprise SW,Bangalore,partner,"sap,erp,enterprise",SAP ecosystem leader

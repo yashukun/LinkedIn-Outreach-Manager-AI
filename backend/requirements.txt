@@ -1,0 +1,12 @@
+uvicorn
+fastapi
+psycopg2-binary
+pandas
+sqlalchemy
+python-multipart
+pydantic
+requests
+openai
+selenium
+selenium-stealth
+undetected-chromedriver
